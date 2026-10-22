@@ -1,4 +1,5 @@
 // Add custom JavaScript here
+<<<<<<< HEAD
 function userScroll(){
     const navbar = document.querySrelector('.navbar')
 
@@ -12,3 +13,5 @@ function userScroll(){
 }
 
 document.addEventListener('DOMContentLoaded', userScroll)
+=======
+>>>>>>> 072e97b49b2daa0c2eac346665db604e6c9aa63e
